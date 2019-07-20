@@ -1,8 +1,8 @@
 # 0720
 
+## To-do
 -  BZOJ1876 SuperGCD
 -  BZOJ1053 反素数
--  DONE! POJ3090 Visible Lattice Points
 -  NOIP2009 Hankson的趣味题
 -  BZOJ2705 Longge
 -  NOIP2013 转圈游戏
@@ -10,3 +10,6 @@
 -  BZOJ1441
 -  POJ1845 Sumdiv
 -  POJ2891
+
+## Done
+-  POJ3090 Visible Lattice Points
